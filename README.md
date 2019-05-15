@@ -8,7 +8,7 @@ The prediction system mainly uses Naive Bayes algorithm to predict disease. Alon
 http://people.dbmi.columbia.edu/~friedma/Projects/DiseaseSymptomKB/index.html
 
 
-After running main.py in Visual Studio Code you can run the website on the localhost refer terminal.jpg
+After running main.py in Visual Studio Code you can run the website on the localhost refer terminal.PNG
 
 While working with flask create a directory say website and then place the above downloaded files (static, template) in the same directory. 
 
